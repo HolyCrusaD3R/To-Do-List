@@ -1,0 +1,36 @@
+#todoSection{
+    margin: 1vh auto 0 auto;
+    max-width: 300px;
+    position: relative;
+    border: 1vh;
+    border-style: groove;
+}
+
+.container{
+    max-width: 300px;
+    margin: auto auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 10%;
+    border-bottom: 1px dotted #999;
+}
+
+#iTask{
+    border-radius: 7% solid #999;
+}
+
+.addButton{
+    padding: 5px;
+    border: 0.5px solid #999;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+.list{
+    margin-top: 10px;    
+}
+
+.goal{
+    display: flex;
+    justify-content: flex-start;
+}
