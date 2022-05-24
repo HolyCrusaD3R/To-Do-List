@@ -4,6 +4,7 @@
     position: relative;
     border: 1vh;
     border-style: groove;
+    box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);  
 }
 
 .container{
